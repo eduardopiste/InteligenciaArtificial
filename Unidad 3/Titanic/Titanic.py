@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 21:44:04 2020
 
-@author: Desk
-"""
-"""
-Predecir la supervivencia del Titanic
-@author: ligdigonzalez
-"""
 ##########LIBRERÍAS A UTILIZAR##########
 #Se importan la librerias a utilizar
 import numpy as np
